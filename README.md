@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessfillion
 - 👀 I’m interested in Data Anlaytics & Visualization
-- 🌱 I’m currently learning Python and Tableau
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Analytic and Data Management projects
 
 <!---
