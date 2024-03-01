@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessfillion
-- 👀 I’m interested in Data Anlaytics & Visualization
+- 👀 I’m interested in Data Analytics, Data Visualization & LLM projects
 - 📫 You can find me at https://www.jessicafillion.com/
 
 <!---
