@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessfillion
-- 👀 I’m interested in Data Analytics, Data Visualization & LLM projects
-- 📫 You can find me at https://www.jessicafillion.com/
+- 👀 I’m interested in Data Analytics, Consumer Insights & Data Visualization projects
+- 📫 You can find me at https://www.jessfillion.com/
 
 <!---
 jessfillion/jessfillion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
